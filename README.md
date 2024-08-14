@@ -45,3 +45,5 @@
 <br>Akshay Kumar  LCB2023007 akshay2023007 lcb2023007@iiitl.ac.in<br>
 <br>Abhay Sahu LCI2023055 abhay6758 lci2023055@iiitl.ac.in<br>
 <br>Rahul Bharadwaz Deevi LCI2023019 RahulBharadwaz rahulbharadwazdeevi@gmail.com<br>
+<br>Atul Gond LCB2023033  Atulgond gondatul304@gmail.com
+
