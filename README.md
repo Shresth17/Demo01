@@ -37,3 +37,6 @@ Sarthak Kumar LCI2023031 codingagent47 sarthakkumar22032005gmail.com
 Akhand Pratap Dhiryan LCI2023022 Akhandp10 akhandp900@gmail.com
 Digvijay Rahul Deshmukh LCI2023012 digvijay-555 digvijaydeshmukh5555@outlook.com
 Ashwin Avinash Gajbhiye LCB2023023 AshwinGajbhiye ashwingajbhiye36@gmail.com
+Aditya Singh LCI2023003 adityasingh2315 lci2023003@iiitl.ac.in
+
+
