@@ -7,3 +7,5 @@ Shreya Jambhale LCI2023008 shreya-2201 shreyajambhale3@gmail.com
 Muskan Agrawal LCI2023030 muskan191103 muskan101agrawal@gmail.com
 Gagan Mishra LCI2023038 GaganMishra305 simonsimple305@gmail.com
 Piyush Nayak   LCB2023050   PIYUSH-NAYAK   piyushnayak90020@gmail.com
+
+Pratush Shyam Gupt LCI2023039 psg-19 pratushgupt22@gmail.com
