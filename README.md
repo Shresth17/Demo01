@@ -1,4 +1,4 @@
-# Demo01
+iii# Demo01
 Demo01
 Vinaya Sathyanarayana Roll_No VinayaSathyanarayana vinaya@iiitl.ac.in 
 Erin Helga D Silva    LCB2023026   erinhdsilva      erinhdsilva@gmail.com
@@ -28,4 +28,20 @@ Pranjay Singh LCI2023001 blunterdecosta123 singhpran15@gmail.com
 Nakshatra Patil LCI2023042 Nakshatra-Patil patilnakshatra91@gmail.com
 Kaithey Hanika Vasu LCB2023015 Hanikaaaa hanikareddy05@gmail.com
 Taduvai Jaswanth Prudhvi LCI2023002 Prudhvi-232 prudhvitaduvai@gmail.com
-Rahul Bharadwaz Deevi LCI2023019 RahulBharadwaz rahulbharadwazdeevi@gmail.com
+Sameer Anil Pazare LCB2023056  youfoundmee sameerpazare123@gmail.com
+Segu Rohith Kumar LCI2023056 rohithkumar2027 rohithcodes@gmail.com
+Ruthvik.P LCI2023017 Ruthvik-27 lci2023017@iiitl.ac.in
+Shrishti Dubey LCI2023006 ShrishtiDubey27 lci2023006@iiitl.ac.in
+Annam Radesh LCI2023020 Radesh07 radeshannam@gmail.com
+Sarthak Kumar LCI2023031 codingagent47 sarthakkumar22032005gmail.com
+Akhand Pratap Dhiryan LCI2023022 Akhandp10 akhandp900@gmail.com
+Digvijay Rahul Deshmukh LCI2023012 digvijay-555 digvijaydeshmukh5555@outlook.com
+Ashwin Avinash Gajbhiye LCB2023023 AshwinGajbhiye ashwingajbhiye36@gmail.com
+Aditya Singh LCI2023003 adityasingh2315 lci2023003@iiitl.ac.in
+Ashutosh Dapakara LCI2023018 AshutoshAD1 practicemodegoat@gmail.com
+Ananya Kuchhal LCB2023044 ananyakuchhal kuchhalananya@gmail.com
+Vivek Rathore LCI2023045 vivekathore rathorevivek296@gmail.com
+Piyush Kant   LCI2023054 piyushkant08 piyushkant711@gmail.com
+Mohd. Kaif    LCI2023035 kaifx11      mohdkaifx78@gmail.com
+Akshay Kumar  LCB2023007 akshay2023007 lcb2023007@iiitl.ac.in
+Abhay Sahu LCI2023055 abhay6758 lci2023055@iiitl.ac.in
