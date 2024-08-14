@@ -33,3 +33,4 @@ Segu Rohith Kumar LCI2023056 rohithkumar2027 rohithcodes@gmail.com
 Ruthvik.P LCI2023017 Ruthvik-27 lci2023017@iiitl.ac.in
 Shrishti Dubey LCI2023006 ShrishtiDubey27 lci2023006@iiitl.ac.in
 Annam Radesh LCI2023020 Radesh07 radeshannam@gmail.com
+Sarthak Kumar LCI2023031 codingagent47 sarthakkumar22032005gmail.com
