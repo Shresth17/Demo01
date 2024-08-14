@@ -10,7 +10,7 @@ Pratush Shyam Gupt LCI2023039 psg-19 pratushgupt22@gmail.com
 Dishant Garg LCB2023011 Dishant-garg dgarg9803@gmail.com
 Prashant Kumar Yadav LCI2023025 prashantyadav09783@gmail.com
 Piyush Nayak   LCB2023050   PIYUSH-NAYAK   piyushnayak90020@gmail.com
-
+NANDYALA SAI GANESH POSHITH LCI2023032 poshithNandyala poshithiiitl@gmail.com
 Ansh Bhargava LCB2023012 Bhargavaansh2211 bhargavaansh78@gmail.com
 Lakshya Agarwal LCI2023058 Lakshya0000 agarwallakshya94@gmail.com
 Devansh Verma LCI2023016 Invincible1602
