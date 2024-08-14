@@ -25,3 +25,4 @@ Pratham Hole LCB2023003 Prtm2110 lcb2023003@iiitl.ac.in
 Pagadala Romith Chenna Kesav LCI2023059 Romith-27 lci2023059@iiitl.ac.in
 Vedamsh LCI2023004 Vedamsh27 vedamsh25@gmail.com
 Pranjay Singh LCI2023001 blunterdecosta123 singhpran15@gmail.com
+Nakshatra Patil LCI2023042 Nakshatra-Patil patilnakshatra91@gmail.com
