@@ -17,3 +17,4 @@ Devansh Verma LCI2023016 Invincible1602
 devansh7192@gmail.com 
 Nithin Lci20203040 nithincod nithinrohitian@gmail.com
 Diana Solomon LCB2023027 dianasolomon dianapsolomon@gmail.com
+Ajay Baghel LCB2023004 ajaybaghel05 ajaybaghel141@gmail.com
