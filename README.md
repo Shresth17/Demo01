@@ -34,3 +34,6 @@ Ruthvik.P LCI2023017 Ruthvik-27 lci2023017@iiitl.ac.in
 Shrishti Dubey LCI2023006 ShrishtiDubey27 lci2023006@iiitl.ac.in
 Annam Radesh LCI2023020 Radesh07 radeshannam@gmail.com
 Sarthak Kumar LCI2023031 codingagent47 sarthakkumar22032005gmail.com
+Vivek Rathore LCI2023045 vivekathore rathorevivek296@gmail.com
+Piyush Kant   LCI2023054 piyushkant08 piyushkant711@gmail.com
+Mohd. Kaif    LCI2023035 kaifx11      mohdkaifx78@gmail.com
