@@ -14,8 +14,7 @@
 <br>NANDYALA SAI GANESH POSHITH LCI2023032 poshithNandyala poshithiiitl@gmail.com<br>
 <br>Ansh Bhargava LCB2023012 Bhargavaansh2211 bhargavaansh78@gmail.com<br>
 <br>Lakshya Agarwal LCI2023058 Lakshya0000 agarwallakshya94@gmail.com<br>
-<br>Devansh Verma LCI2023016 Invincible1602<br>
-<br>devansh7192@gmail.com<br>
+<br>Devansh Verma LCI2023016 Invincible1602 devansh7192@gmail.com<br>
 <br>Nithin Lci20203040 nithincod nithinrohitian@gmail.com<br>
 <br>Diana Solomon LCB2023027 dianasolomon dianapsolomon@gmail.com<br>
 <br>Ajay Baghel LCB2023004 ajaybaghel05 ajaybaghel141@gmail.com<br>
