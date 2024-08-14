@@ -27,3 +27,4 @@ Vedamsh LCI2023004 Vedamsh27 vedamsh25@gmail.com
 Pranjay Singh LCI2023001 blunterdecosta123 singhpran15@gmail.com
 Nakshatra Patil LCI2023042 Nakshatra-Patil patilnakshatra91@gmail.com
 Kaithey Hanika Vasu LCB2023015 Hanikaaaa hanikareddy05@gmail.com
+Taduvai Jaswanth Prudhvi LCI2023002 Prudhvi-232 prudhvitaduvai@gmail.com
