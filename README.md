@@ -20,3 +20,4 @@ Diana Solomon LCB2023027 dianasolomon dianapsolomon@gmail.com
 Ajay Baghel LCB2023004 ajaybaghel05 ajaybaghel141@gmail.com
 Pranilash Reddy LCB2023040 Pranilash pesarapranilash@gmail.com
 Pagadala Romith Chenna Kesav LCI2023059 Romith-27 lci2023059@iiitl.ac.in
+Vedamsh LCI2023004 Vedamsh27 vedamsh25@gmail.com
