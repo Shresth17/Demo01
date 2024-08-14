@@ -41,6 +41,7 @@
 <br>Ananya Kuchhal LCB2023044 ananyakuchhal kuchhalananya@gmail.com<br>
 <br>Vivek Rathore LCI2023045 vivekathore rathorevivek296@gmail.com<br>
 <br>Piyush Kant   LCI2023054 piyushkant08 piyushkant711@gmail.com<br>
+<br>Aman Choudhary    LCI2023029   amanchoudhary17    amankumarchoudhary301@gmail.com<br>
 <br>Mohd. Kaif    LCI2023035 kaifx11      mohdkaifx78@gmail.com<br>
 <br>Akshay Kumar  LCB2023007 akshay2023007 lcb2023007@iiitl.ac.in<br>
 <br>Abhay Sahu LCI2023055 abhay6758 lci2023055@iiitl.ac.in<br>
