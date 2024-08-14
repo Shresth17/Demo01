@@ -39,5 +39,4 @@ Digvijay Rahul Deshmukh LCI2023012 digvijay-555 digvijaydeshmukh5555@outlook.com
 Ashwin Avinash Gajbhiye LCB2023023 AshwinGajbhiye ashwingajbhiye36@gmail.com
 Aditya Singh LCI2023003 adityasingh2315 lci2023003@iiitl.ac.in
 Ashutosh Dapakara LCI2023018 AshutoshAD1 practicemodegoat@gmail.com
-
-
+Ananya Kuchhal LCB2023044 ananyakuchhal kuchhalananya@gmail.com
