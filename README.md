@@ -9,6 +9,7 @@ Gagan Mishra LCI2023038 GaganMishra305 simonsimple305@gmail.com
 Pratush Shyam Gupt LCI2023039 psg-19 pratushgupt22@gmail.com
 Dishant Garg LCB2023011 Dishant-garg dgarg9803@gmail.com
 Prashant Kumar Yadav LCI2023025 prashantyadav09783@gmail.com
+Piyush Nayak   LCB2023050   PIYUSH-NAYAK   piyushnayak90020@gmail.com
 
 Ansh Bhargava LCB2023012 Bhargavaansh2211 bhargavaansh78@gmail.com
 Lakshya Agarwal LCI2023058 Lakshya0000 agarwallakshya94@gmail.com
