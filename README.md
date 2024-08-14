@@ -42,6 +42,7 @@ Ashutosh Dapakara LCI2023018 AshutoshAD1 practicemodegoat@gmail.com
 Ananya Kuchhal LCB2023044 ananyakuchhal kuchhalananya@gmail.com
 Vivek Rathore LCI2023045 vivekathore rathorevivek296@gmail.com
 Piyush Kant   LCI2023054 piyushkant08 piyushkant711@gmail.com
+Aman Choudhary    LCI2023029   amanchoudhary17    amankumarchoudhary301@gmail.com
 Mohd. Kaif    LCI2023035 kaifx11      mohdkaifx78@gmail.com
 Akshay Kumar  LCB2023007 akshay2023007 lcb2023007@iiitl.ac.in
 Abhay Sahu LCI2023055 abhay6758 lci2023055@iiitl.ac.in
