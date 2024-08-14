@@ -53,3 +53,4 @@
 <br>Utkarsh Gupta LCB2023010 justkarsh utkar721@gmail.com <br>
 <br>Nanera Ankur Nitinbhai LCB2023052 ankurnanera naneraankur69@gmail.com<br>
 <br>Sayimpu Leela Aakash LCB2023057 leelaakash leelaakash7@gmail.com<br>
+<br>Abinash Nayak LCB2023036 abinash-30 abinashnayakarbi30@gmail.com<br>
