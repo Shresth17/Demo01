@@ -31,3 +31,4 @@ Taduvai Jaswanth Prudhvi LCI2023002 Prudhvi-232 prudhvitaduvai@gmail.com
 Sameer Anil Pazare LCB2023056  youfoundmee sameerpazare123@gmail.com
 Segu Rohith Kumar LCI2023056 rohithkumar2027 rohithcodes@gmail.com
 Ruthvik.P LCI2023017 Ruthvik-27 lci2023017@iiitl.ac.in
+Shrishti Dubey LCI2023006 ShrishtiDubey27 lci2023006@iiitl.ac.in
