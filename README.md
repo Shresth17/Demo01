@@ -55,3 +55,4 @@
 <br>Sayimpu Leela Aakash LCB2023057 leelaakash leelaakash7@gmail.com<br>
 <br>Abinash Nayak LCB2023036 abinash-30 abinashnayakarbi30@gmail.com<br>
 <br>Amritanshu Priyadarshi LCB2023046 HeyAmrit lcb2023046@iiitl.ac.in<br>
+<br>Anurag Kumar LCI2023036 BeingAnurag lci2023036@iiitl.ac.in<br>
