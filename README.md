@@ -71,3 +71,4 @@
 <br>khushal midha LCI2023048 khushalmidha khushalmidha24@gmail.com<br>
 <br>Eshant Gupta LCB2023016 eshant742 eshantgupta005@gmail.com<br>
 <br> Prashik Humane LCB2023039 prashik24 prashikhumane744@gmail.com<br>
+<br>Prateek Mishra LCB2023031 Prateek-byte prateekmishrachs@gmail.com<br>
