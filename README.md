@@ -75,3 +75,4 @@
 <br>Prateek Mishra LCB2023031 Prateek-byte prateekmishrachs@gmail.com<br>
 <br>Shivang Agrahari LCB2023030 shibo911 shivangagraharijee2023@gmail.com<br>
 <br>Hardee Parekh LCB2023028 hardeeparekh parekhhardee@gmail.com<br>
+<br>Safiya Nasir LCI2023053 safiya2610 hellosafiya6@gmail.com<br>
