@@ -74,3 +74,4 @@
 <br> Prashik Humane LCB2023039 prashik24 prashikhumane744@gmail.com<br>
 <br>Prateek Mishra LCB2023031 Prateek-byte prateekmishrachs@gmail.com<br>
 <br>Shivang Agrahari LCB2023030 shibo911 shivangagraharijee2023@gmail.com<br>
+<br>Hardee Parekh LCB2023028 hardeeparekh parekhhardee@gmail.com<br>
