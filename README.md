@@ -67,5 +67,5 @@
 <br>Ujjwal Goyal LCB2023013 ujjwal0207 ujjwalgoyal.ajmercity@gmail.com<br>
 <br>Nachiket Deore LCB2023002 nachiketdeore09 nachiketdeore10@gmail.com<br>
 <br>Medha Bhardwaj LCB2023053 medha-14 medha140904@gmail.coom<br>
-<br>Arun kumar Swami LCB2023049 arunkumar-49 swamiarunkumar1@gmail.com
-
+<br>Arun kumar Swami LCB2023049 arunkumar-49 swamiarunkumar1@gmail.com<br>
+<br>khushal midha LCI2023048 khushalmidha khushalmidha24@gmail.com<br>
