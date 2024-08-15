@@ -70,3 +70,4 @@
 <br>Arun kumar Swami LCB2023049 arunkumar-49 swamiarunkumar1@gmail.com<br>
 <br>khushal midha LCI2023048 khushalmidha khushalmidha24@gmail.com<br>
 <br>Eshant Gupta LCB2023016 eshant742 eshantgupta005@gmail.com<br>
+<br> Prashik Humane LCB2023039 prashik24 prashikhumane744@gmail.com<br>
